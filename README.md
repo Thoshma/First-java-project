@@ -1,2 +1,2 @@
-# First-java-project
+# First-java-console-project
 Bank Management System
